@@ -1,0 +1,119 @@
+2025-08-05 00:46:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Debjyoti\AppData\Local\Temp\testng-eclipse--435233309\testng-customsuite.xml"
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 19 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 35 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 00:46:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Debjyoti\AppData\Local\Temp\testng-eclipse--435233309\testng-customsuite.xml
+
+2025-08-05 00:46:15 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-08-05 00:46:22 INFO  TC_001AccountRegistration:32 - Browser Opened Successfully
+2025-08-05 00:46:22 INFO  TC_001AccountRegistration:20 - Starting Account Registration Test............
+2025-08-05 00:46:23 INFO  TC_001AccountRegistration:24 - Click on My Account
+2025-08-05 00:46:23 INFO  TC_001AccountRegistration:27 - Click on Register Account
+2025-08-05 00:46:24 INFO  TC_001AccountRegistration:34 - Entering Account Details
+2025-08-05 00:46:24 INFO  TC_001AccountRegistration:39 - Entering Password Details
+2025-08-05 00:46:25 INFO  TC_001AccountRegistration:43 - Click on Confirm CheckBox and Continue Button
+2025-08-05 00:46:28 INFO  TC_001AccountRegistration:48 - Account Registration Successful
+2025-08-05 00:46:28 INFO  TC_001AccountRegistration:41 - Browser Closed Successfully
+2025-08-05 00:46:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@392a04e7: 121 ms
+2025-08-05 00:46:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4d8126f: 4 ms
+2025-08-05 00:46:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@131fcb6f: 16 ms
+2025-08-05 00:46:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@15923407: 15 ms
+2025-08-05 00:46:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@20ed3303: 12 ms
+2025-08-05 00:46:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3adbe50f: 0 ms
+2025-08-05 01:15:58 DEBUG TestNG:82 - suiteXmlPath: "D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml"
+2025-08-05 01:15:58 INFO  Utils:112 - [TestNG] Running:
+  D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml
+
+2025-08-05 01:15:59 INFO  TC_001AccountRegistration:32 - Browser Selected is Edge
+2025-08-05 01:16:06 INFO  TC_001AccountRegistration:40 - Browser Opened Successfully
+2025-08-05 01:16:06 INFO  TC_001AccountRegistration:20 - Starting Account Registration Test............
+2025-08-05 01:16:06 INFO  TC_001AccountRegistration:24 - Click on My Account
+2025-08-05 01:16:07 INFO  TC_001AccountRegistration:27 - Click on Register Account
+2025-08-05 01:16:07 INFO  TC_001AccountRegistration:34 - Entering Account Details
+2025-08-05 01:16:08 INFO  TC_001AccountRegistration:39 - Entering Password Details
+2025-08-05 01:16:09 INFO  TC_001AccountRegistration:43 - Click on Confirm CheckBox and Continue Button
+2025-08-05 01:16:12 INFO  TC_001AccountRegistration:48 - Account Registration Successful
+2025-08-05 01:16:12 INFO  TC_001AccountRegistration:49 - Browser Closed Successfully
+2025-08-05 01:32:16 DEBUG TestNG:82 - suiteXmlPath: "D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml"
+2025-08-05 01:35:59 DEBUG TestNG:82 - suiteXmlPath: "D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml"
+2025-08-05 01:35:59 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 01:36:04 DEBUG TestNG:82 - suiteXmlPath: "D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml"
+2025-08-05 01:36:04 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 01:36:16 DEBUG TestNG:82 - suiteXmlPath: "D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml"
+2025-08-05 01:36:16 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 01:36:16 INFO  Utils:112 - [TestNG] Running:
+  D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml
+
+2025-08-05 01:36:16 INFO  TC_001AccountRegistration:32 - Browser Selected is Edge
+2025-08-05 01:36:21 INFO  TC_001AccountRegistration:40 - Browser Opened Successfully
+2025-08-05 01:36:21 INFO  TC_001AccountRegistration:20 - Starting Account Registration Test............
+2025-08-05 01:36:21 INFO  TC_001AccountRegistration:24 - Click on My Account
+2025-08-05 01:36:21 INFO  TC_001AccountRegistration:27 - Click on Register Account
+2025-08-05 01:36:22 INFO  TC_001AccountRegistration:34 - Entering Account Details
+2025-08-05 01:36:22 INFO  TC_001AccountRegistration:39 - Entering Password Details
+2025-08-05 01:36:23 INFO  TC_001AccountRegistration:43 - Click on Confirm CheckBox and Continue Button
+2025-08-05 01:36:26 INFO  TC_001AccountRegistration:48 - Account Registration Successful
+2025-08-05 01:36:27 INFO  TC_001AccountRegistration:49 - Browser Closed Successfully
+2025-08-05 01:36:27 INFO  TC_001AccountRegistration:31 - Browser Selected is Chrome
+2025-08-05 01:36:30 INFO  TC_001AccountRegistration:40 - Browser Opened Successfully
+2025-08-05 01:36:30 INFO  TC_001AccountRegistration:20 - Starting Account Registration Test............
+2025-08-05 01:36:31 INFO  TC_001AccountRegistration:24 - Click on My Account
+2025-08-05 01:36:32 INFO  TC_001AccountRegistration:27 - Click on Register Account
+2025-08-05 01:36:32 INFO  TC_001AccountRegistration:34 - Entering Account Details
+2025-08-05 01:36:33 INFO  TC_001AccountRegistration:39 - Entering Password Details
+2025-08-05 01:36:33 INFO  TC_001AccountRegistration:43 - Click on Confirm CheckBox and Continue Button
+2025-08-05 01:36:37 INFO  TC_001AccountRegistration:48 - Account Registration Successful
+2025-08-05 01:36:37 INFO  TC_001AccountRegistration:49 - Browser Closed Successfully
+2025-08-05 01:38:51 DEBUG TestNG:82 - suiteXmlPath: "D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml"
+2025-08-05 01:38:51 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 01:38:52 INFO  Utils:112 - [TestNG] Running:
+  D:\Projects\Java project\selenium tutorial\OpenCartV002\testng.xml
+
+2025-08-05 01:38:52 INFO  TC_001AccountRegistration:32 - Browser Selected is Edge
+2025-08-05 01:38:52 INFO  TC_001AccountRegistration:31 - Browser Selected is Chrome
+2025-08-05 01:38:57 INFO  TC_001AccountRegistration:40 - Browser Opened Successfully
+2025-08-05 01:38:57 INFO  TC_001AccountRegistration:40 - Browser Opened Successfully
+2025-08-05 01:38:57 INFO  TC_001AccountRegistration:20 - Starting Account Registration Test............
+2025-08-05 01:38:57 INFO  TC_001AccountRegistration:20 - Starting Account Registration Test............
+2025-08-05 01:38:57 INFO  TC_001AccountRegistration:24 - Click on My Account
+2025-08-05 01:38:58 INFO  TC_001AccountRegistration:27 - Click on Register Account
+2025-08-05 01:38:58 INFO  TC_001AccountRegistration:24 - Click on My Account
+2025-08-05 01:38:58 INFO  TC_001AccountRegistration:34 - Entering Account Details
+2025-08-05 01:38:59 INFO  TC_001AccountRegistration:27 - Click on Register Account
+2025-08-05 01:38:59 INFO  TC_001AccountRegistration:39 - Entering Password Details
+2025-08-05 01:38:59 INFO  TC_001AccountRegistration:34 - Entering Account Details
+2025-08-05 01:38:59 INFO  TC_001AccountRegistration:39 - Entering Password Details
+2025-08-05 01:39:00 INFO  TC_001AccountRegistration:43 - Click on Confirm CheckBox and Continue Button
+2025-08-05 01:39:00 INFO  TC_001AccountRegistration:43 - Click on Confirm CheckBox and Continue Button
+2025-08-05 01:39:03 INFO  TC_001AccountRegistration:48 - Account Registration Successful
+2025-08-05 01:39:03 INFO  TC_001AccountRegistration:48 - Account Registration Successful
+2025-08-05 01:39:03 INFO  TC_001AccountRegistration:49 - Browser Closed Successfully
+2025-08-05 01:39:04 INFO  TC_001AccountRegistration:49 - Browser Closed Successfully
