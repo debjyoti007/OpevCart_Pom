@@ -53,11 +53,7 @@ public class TestBaseClass {
 		} catch (Exception e) {
 			
 			e.printStackTrace();
-		}
-		
-		
-		
-		
+		}	
 		
 		
 	}
@@ -67,6 +63,8 @@ public class TestBaseClass {
 	@AfterClass
 	public void tearDown() {
 		
+		
+		loggers.info("Closing Browser");
 		driver.quit();
 		loggers.info("Browser Closed Successfully");
 		
