@@ -13,7 +13,7 @@ public class LoginPage extends BasePage {
 
 	@FindBy(xpath ="//input[@id=\"input-email\"]") 	WebElement emailLogin;
 	@FindBy(xpath ="//input[@id=\"input-password\"]") 	WebElement passLogin;
-	@FindBy(xpath ="///input[@value='Login']]") 		WebElement btnLogin;
+	@FindBy(xpath ="//input[@value='Login']") 		WebElement btnLogin;
 	
 	
 	public void EmailLogin(String email) {

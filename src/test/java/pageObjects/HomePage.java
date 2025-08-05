@@ -19,15 +19,14 @@ public class HomePage extends BasePage{
 	
 	
 	public void ClickMyAccount() {
-		
 		linkMyaccount.click();
 	}	
-		public void ClickAccountRegister() {
-		
+	
+	public void ClickAccountRegister() {
 		accRegister.click();
 	}
-		public void ClickLogin() {
-			
-			accLogin.click();
+	
+    public void ClickLogin() {
+		accLogin.click();
 	}
 }
