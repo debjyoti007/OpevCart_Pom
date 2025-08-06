@@ -5,7 +5,7 @@
     <parameter name="browser" value="edge"/>
     
     <classes>
-      <class name="testCases.TC_002LoginTestDDT"/>
+      <class name="testCases.TC_002LoginTest"/>
     </classes>
   </test>
   <!--  <test thread-count="5" name="Test2">

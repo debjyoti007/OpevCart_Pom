@@ -14,7 +14,7 @@ import pageObjects.MyAccountPage;
 import testBase.TestBaseClass;
 import utilities.DataProviders;
 
-public class TC_002LoginTestDDT extends TestBaseClass{
+public class TC_002LoginTest extends TestBaseClass{
 
 	
 
@@ -62,7 +62,7 @@ public class TC_002LoginTestDDT extends TestBaseClass{
 					map.ClickLogout();
 					Assert.assertTrue(false);
 				} else {
-					loggers.info("4Login test passed as its not login with invalid credentials");
+					loggers.error("4Login test passed as its not login with invalid credentials");
 					
 					Assert.assertTrue(true);
 				}
