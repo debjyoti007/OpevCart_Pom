@@ -91,4 +91,11 @@ public class TestBaseClass {
 
 
 
+	public String captureScreen(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+
 }
