@@ -62,7 +62,7 @@ public class TC_002LoginTestDDT extends TestBaseClass{
 					map.ClickLogout();
 					Assert.assertTrue(false);
 				} else {
-					loggers.error("4Login test passed as its not login with invalid credentials");
+					loggers.info("4Login test passed as its not login with invalid credentials");
 					
 					Assert.assertTrue(true);
 				}
