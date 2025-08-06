@@ -11,7 +11,7 @@ import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
 import testBase.TestBaseClass;
 
-public class TC_003LoginTest extends TestBaseClass{
+public class TC_003LoginTestDDT extends TestBaseClass{
 
 	
 
