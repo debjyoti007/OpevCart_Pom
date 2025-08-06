@@ -1,15 +1,20 @@
 package testBase;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.Date;
 import java.util.Properties;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -19,7 +24,7 @@ import org.testng.annotations.Parameters;
 
 
 public class TestBaseClass {
-	public WebDriver driver;
+	public static WebDriver driver;
 	public Logger loggers;
 	public Properties p; // Make Properties accessible to child classes
 	
@@ -91,10 +96,28 @@ public class TestBaseClass {
 
 
 
-	public String captureScreen(String name) {
-		// TODO Auto-generated method stub
-		return null;
-	}
+	public String captureScreen(String tname) {
+    //String destPath = null;
+		String timeStamp = new SimpleDateFormat("yyyyMMddHHmmss").format(new Date());
+        String targetFileName=System.getProperty("user.dir")+"\\screenshots\\" + tname + "_" + timeStamp + ".png";
+    try {
+        TakesScreenshot ts = (TakesScreenshot) driver;
+		// Create a directory for screenshots if it doesn't exist
+		File sourceFile = ts.getScreenshotAs(OutputType.FILE);
+		
+		File targetFile=new File(targetFileName);
+		
+		sourceFile.renameTo(targetFile);
+			
+		
+
+        } catch (Exception e) {
+        loggers.error("Failed to capture screenshot: " + e.getMessage());
+    }
+	
+	return targetFileName;
+    
+}
 
 
 
