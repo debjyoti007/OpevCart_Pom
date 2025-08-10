@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-07T02:25:16 IST" name="Suite" finished-at="2025-08-07T02:26:32 IST" duration-ms="76558">
+  <suite started-at="2025-08-10T13:29:54 IST" name="Suite" finished-at="2025-08-10T13:31:19 IST" duration-ms="85357">
     <groups>
     </groups>
-    <test started-at="2025-08-07T02:25:16 IST" name="Test" finished-at="2025-08-07T02:26:32 IST" duration-ms="76558">
+    <test started-at="2025-08-10T13:29:54 IST" name="TestEdge" finished-at="2025-08-10T13:31:19 IST" duration-ms="85357">
       <class name="testCases.TC_002LoginTestDDT">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@6a55299e]" started-at="2025-08-07T02:25:16 IST" name="setup" finished-at="2025-08-07T02:25:23 IST" duration-ms="6492" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@79517588]" started-at="2025-08-10T13:29:54 IST" name="setup" finished-at="2025-08-10T13:30:02 IST" duration-ms="8397" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@6a55299e]" started-at="2025-08-07T02:25:25 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-07T02:25:35 IST" duration-ms="10489" status="PASS">
+        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@79517588]" started-at="2025-08-10T13:30:04 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-10T13:30:18 IST" duration-ms="13830" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,7 +44,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTestDDT -->
-        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@6a55299e]" started-at="2025-08-07T02:25:36 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-07T02:25:45 IST" duration-ms="9168" status="PASS">
+        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@79517588]" started-at="2025-08-10T13:30:18 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-10T13:30:28 IST" duration-ms="10155" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTestDDT -->
-        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@6a55299e]" started-at="2025-08-07T02:25:45 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-07T02:26:03 IST" duration-ms="18465" status="PASS">
+        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@79517588]" started-at="2025-08-10T13:30:28 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-10T13:30:48 IST" duration-ms="19763" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -86,7 +86,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTestDDT -->
-        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@6a55299e]" started-at="2025-08-07T02:26:04 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-07T02:26:22 IST" duration-ms="18653" status="PASS">
+        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@79517588]" started-at="2025-08-10T13:30:48 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-10T13:31:08 IST" duration-ms="19669" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -107,7 +107,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTestDDT -->
-        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@6a55299e]" started-at="2025-08-07T02:26:22 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-07T02:26:32 IST" duration-ms="9414" status="PASS">
+        <test-method signature="verifyLoginTestDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTestDDT@79517588]" started-at="2025-08-10T13:31:08 IST" name="verifyLoginTestDDT" data-provider="LoginData" finished-at="2025-08-10T13:31:18 IST" duration-ms="10014" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -128,11 +128,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTestDDT -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002LoginTestDDT@6a55299e]" started-at="2025-08-07T02:26:32 IST" name="tearDown" finished-at="2025-08-07T02:26:32 IST" duration-ms="431" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002LoginTestDDT@79517588]" started-at="2025-08-10T13:31:19 IST" name="tearDown" finished-at="2025-08-10T13:31:19 IST" duration-ms="501" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_002LoginTestDDT -->
-    </test> <!-- Test -->
+    </test> <!-- TestEdge -->
   </suite> <!-- Suite -->
 </testng-results>
